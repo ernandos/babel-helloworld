@@ -1,5 +1,6 @@
-# babel-helloworld
+# Babel Helloworld
 
+The compiler for writing next generation JavaScript.
 
 ```sh
 # Clones the repository
